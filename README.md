@@ -1,1 +1,3 @@
 # App - Aprovação de aluno!
+
+app responsável por aprovar alunos com base na notas tiradas por elas. Com base na nota final do aluno será decidido e ele será reprovado, se terá que fazer a prova Sub ou se está aprovado...
