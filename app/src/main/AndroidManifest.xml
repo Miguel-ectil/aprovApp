@@ -26,7 +26,6 @@
         <activity
             android:name="br.com.estudos.ap1.CarrosselActivity"
             android:exported="true" />
-
     </application>
 
 </manifest>
